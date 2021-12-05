@@ -228,3 +228,11 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+"""
+
+Helpful References
+While loops: https://www.w3schools.com/python/python_while_loops.asp
+Functions: https://www.programiz.com/python-programming/function
+
+"""
